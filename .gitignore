@@ -1,0 +1,36 @@
+# -----------------------
+# Python virtual env
+# -----------------------
+.venv/
+venv/
+
+# -----------------------
+# Python cache files
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------
+# Environment / secrets
+# -----------------------
+db_engine.py
+.env
+
+# -----------------------
+# OS generated files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Logs (if any later)
+# -----------------------
+*.log
+
+# -----------------------
+# IDE settings (optional)
+# -----------------------
+.vscode/
+.idea/
